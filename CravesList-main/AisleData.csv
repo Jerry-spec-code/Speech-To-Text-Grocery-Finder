@@ -1,0 +1,146 @@
+Ingredients,Stock,Location
+flour,1,Baking Aisle
+shredded mozzarella cheese,1,Baking Aisle
+shredded cheddar cheese,1,Baking Aisle
+italian style bread crumbs,1,Baking Aisle
+parmigiano reggiano cheese,0,Baking Aisle
+non-fat dry milk,1,Baking Aisle
+dry yeast,1,Baking Aisle
+grated Parmesan cheese,1,Baking Aisle
+unsalted butter,1,Baking Aisle
+Parmesan cheese,1,Baking Aisle
+lemon juice,1,Beverage Aisle
+water,1,Beverage Aisle
+warm water,1,Beverage Aisle
+hot water,1,Beverage Aisle
+apple juice,1,Beverage Aisle
+orange juice,1,Beverage Aisle
+tomato juice,1,Beverage Aisle
+juice,1,Beverage Aisle
+cranberry juice,1,Beverage Aisle
+fresh lime juice,0,Beverage Aisle
+beer,1,Beverage Aisle
+white wine,1,Beverage Aisle
+mirin,1,Beverage Aisle
+tomato paste,1,Canned Foods Aisle 
+chicken broth low sodium,1,Canned Foods Aisle 
+Dole Pineapple Tidbits,1,Canned Foods Aisle 
+chicken base,1,Canned Foods Aisle 
+corn niblets,1,Canned Foods Aisle 
+salsa,1,Canned Foods Aisle 
+olive oil,1,Condiment Aisle
+salt,1,Condiment Aisle
+pepper,1,Condiment Aisle
+smoked paprika,1,Condiment Aisle
+pizza sauce,0,Condiment Aisle
+ground black pepper,1,Condiment Aisle
+marinara sauce,1,Condiment Aisle
+sugar,1,Condiment Aisle
+vegetable oil,1,Condiment Aisle
+sauce,1,Condiment Aisle
+garlic salt,1,Condiment Aisle
+Italian seasoning,1,Condiment Aisle
+Dijon mustard,0,Condiment Aisle
+freshly ground black pepper,1,Condiment Aisle
+salsa,1,Condiment Aisle
+kosher salt,1,Condiment Aisle
+freshly cracked black pepper,0,Condiment Aisle
+chili powder,1,Condiment Aisle
+hot sauce,1,Condiment Aisle
+molasses,1,Condiment Aisle
+honey,1,Condiment Aisle
+cumin,1,Condiment Aisle
+mayonnaise,1,Condiment Aisle
+rice wine vinegar,0,Condiment Aisle
+soy sauce,1,Condiment Aisle
+chili paste,1,Condiment Aisle
+toasted sesame oil,1,Condiment Aisle
+large egg,1,Dairy Aisle
+whipping cream,1,Dairy Aisle
+milk,1,Dairy Aisle
+cream,1,Dairy Aisle
+heavy cream,1,Dairy Aisle
+butter,1,Dairy Aisle
+cream cheese,1,Dairy Aisle
+sour cream,1,Dairy Aisle
+non fat plain greek yogurt,1,Dairy Aisle
+frozen peas,1,Frozen Foods Aisle
+frozen corn,1,Frozen Foods Aisle
+meatloaf ,1,Frozen Foods Aisle
+wonton wraps,1,Frozen Foods Aisle
+rice,1,Grains Aisle
+long-grain rice,1,Grains Aisle
+black beans,1,Grains Aisle
+beans,1,Grains Aisle
+lentils,1,Grains Aisle
+sushi rice ,1,Grains Aisle
+chicken thighs,1,Meat Department
+ham,1,Meat Department
+bacon,1,Meat Department
+chicken breasts,1,Meat Department
+pork belly,1,Meat Department
+minced pork,0,Meat Department
+steak,1,Meat Department
+lamb,1,Meat Department
+pork,1,Meat Department
+goat,1,Meat Department
+duck,1,Meat Department
+chicken,1,Meat Department
+spaghetti,1,Pasta Aisle
+fettucine,1,Pasta Aisle
+onion,1,Produce Department
+bell pepper ,1,Produce Department
+garlic ,1,Produce Department
+oregano ,1,Produce Department
+cilantro,1,Produce Department
+fresh basil,1,Produce Department
+finely chopped fresh parsley,0,Produce Department
+dried oregano,1,Produce Department
+basil,1,Produce Department
+marjoram,1,Produce Department
+garlic powder,1,Produce Department
+sun dried tomatoes,1,Produce Department
+baby spinach,1,Produce Department
+flat leaf parsley,0,Produce Department
+ginger,1,Produce Department
+lemongrass,0,Produce Department
+chopped onion,1,Produce Department
+diced tomatoes,1,Produce Department
+Haas avocado,1,Produce Department
+onion powder,1,Produce Department
+celery seed,0,Produce Department
+apples,1,Produce Department
+oranges,1,Produce Department
+raisins,1,Produce Department
+pears,1,Produce Department
+grapefruits,1,Produce Department
+limes,1,Produce Department
+bananas,1,Produce Department
+mangoes,1,Produce Department
+strawberries,1,Produce Department
+raspberries,1,Produce Department
+blueberries,1,Produce Department
+kiwifruit,1,Produce Department
+scallion,1,Produce Department
+fish,1,Seafood Department
+anchovy,1,Seafood Department
+bass,1,Seafood Department
+bluefish,1,Seafood Department
+carp,1,Seafood Department
+cat fish,1,Seafood Department
+char,1,Seafood Department
+cod,1,Seafood Department
+flouder,1,Seafood Department
+haddock,0,Seafood Department
+halibut,1,Seafood Department
+herring,0,Seafood Department
+mahi-mahi,0,Seafood Department
+sardines,1,Seafood Department
+salmon,1,Seafood Department
+trout,0,Seafood Department
+tuna,0,Seafood Department
+crab,1,Seafood Department
+crayfish,1,Seafood Department
+lobster,1,Seafood Department
+prawns,1,Seafood Department
+shrimp,1,Seafood Department

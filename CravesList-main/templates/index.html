@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" id="html">
+<head>
+    <meta charset="UTF-8">
+    <title>CravesList</title>
+    <link rel="stylesheet" href="../static/css/index.css">
+</head>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
+</style>
+<script src="https://kit.fontawesome.com/afd6aa68df.js" crossorigin="anonymous"></script>
+<body>
+    <div class="header">
+        <h1>CRAVESLIST</h1>
+    </div>
+
+    <form action="" method="get" name="search">
+        <div class="box">
+            <input type="text" class="input" name="item">
+            <i class="fas fa-search"></i>
+        </div>
+        <button type="submit" name="get_ingredients" value="Get Ingredients"
+               onclick="document.getElementById('html').style.backgroundImage = 'url(static/loading.gif)';
+               document.getElementById('info').style.display='none';"
+                style="left: 10%; top: 80%">Get Ingredients</button>
+    </form>
+    <br>
+    <form action="" method="post">
+        <button type="submit" name="voice_input" value="Voice Input"
+                style="right: 10%; top: 80%">Voice Input</button>
+    </form>
+    <h3 id="warning">{{ warning }}</h3>
+    <div id="info">
+        <h2 id="name">{{ name }}</h2>
+        <h3 id="time">{{ time }}</h3>
+        <h3 id="nutrition">{{ nutrition }}</h3>
+        <table>
+            {% for item, price, status in result %}
+            <tr>
+                <td> {{ item }} </td>
+                <td> {{ price }}</td>
+                <td> {{ status }}</td>
+            </tr>
+            {% endfor %}
+        </table>
+    </div>
+</body>
+{% if scroll %}
+<script>
+    document.getElementById('{{ scroll }}').scrollIntoView();
+</script>
+{% endif %}
+</html>
