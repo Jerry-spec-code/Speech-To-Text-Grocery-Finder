@@ -1,4 +1,5 @@
 # CravesList
+Collaborated with a team to create a real-time speech recognition grocery software that outputs key information for consumers, including ingredient availability, price ranges, and in-store shelf location
 
 # Inspiration:
 As a group of computer science and software engineering students, we often find ourselves in situations where we are uncertain of how to prepare a certain meal under time constraints. With our lack of culinary knowledge, we always struggled in finding what ingredients to purchase, much less where to find that product in a supermarket. It was always a hassle to run into situations where the prices were way out of our budget, or when the store no longer had a particular ingredient. Taking inspiration from Siri, we ultimately wanted to leverage speech-to-text software to minimize the need for interpersonal interaction, better enhancing the health, safety, and well-being of our people.
