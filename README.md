@@ -9,6 +9,10 @@ As a group of computer science and software engineering students, we often find 
 As a result, we created a program that enhances customers’ shopping experience both in and outside of stores. At its very core, our program, 
 List, takes input from the customer regarding what food they want to make and outputs the ingredients, price range for each ingredient, whether the store has the item, and even which section of the store it’s in! By using speech-to-text software, we allow users to activate the program using only their voice, effectively minimizing the amount of time spent. Our program currently uses a sample data frame that we constructed for the product inventory and location, but individual stores can use their unique organization data to provide customers with accurate and relevant information. Once a customer knows what they want, we want to help them move through the path-to-purchase as easily as possible, and capitalize on an in-stores biggest strength: immediacy.
 
+# Screenshots of project: 
+<img width="700" alt="image" src="https://user-images.githubusercontent.com/78711575/169848860-d37d2010-4596-4380-95fc-a95bec84b2f2.png">
+<img width="423" alt="image" src="https://user-images.githubusercontent.com/78711575/169848921-5f384763-08ca-4ef1-8795-45c609281e69.png">
+
 # How we built it:
 First, we used the AssemblyAI Speech to Text API to do real-time speech recognition with python in order to convert the user’s verbal input to text. Afterward, we used the Selenium web scraping API in order to find the most suitable set of ingredients based on the user’s recipe request. We then web scraped the Loblaw database to give the most accurate estimation of the prices of each ingredient and constructed a sample database in CVS that determined the availability and in-store location for each ingredient using the Pandas data analysis software. Finally, we used Flask to deploy our code on a Google app engine and publish it using the Google cloud platform in order to enhance user-friendliness.
 
